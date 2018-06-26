@@ -3,9 +3,9 @@
 # dependencies
 /node_modules
 
-.vscode/*
+/.vscode/*
 
-.idea/*
+/.idea/*
 
 # testing
 /coverage
